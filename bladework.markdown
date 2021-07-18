@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bladework Drills
-permalink: /bladework/
+permalink: /drills/bladework
 parent: Drills
 ---
 

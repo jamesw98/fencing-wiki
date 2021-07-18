@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Footwork Drills
-permalink: /footwork/
+permalink: /drills/footwork
 parent: Drills
 nav_order: 1
 ---

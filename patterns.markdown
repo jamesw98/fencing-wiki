@@ -1,7 +1,7 @@
 ---
 layout: page
 title: German Footwork Patterns
-permalink: /patterns/
+permalink: /drills/patterns
 parent: Drills
 nav_order: 2
 ---
