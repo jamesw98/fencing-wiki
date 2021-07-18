@@ -81,7 +81,7 @@ parent: Drills
 * The attacker now has the option to feint disengage followed by a lunge from the defender's parry after the retreat.
 * The defender can now retreat after the above mentioned lunge.
 
-## EDGAR-Janowski Drill
+## EDGAR Drill
 ### Setup and notes
 * There are two roles, attacker and defender. 
 * This is almost a bouting drill, but it's staying the the bladework section for now.
