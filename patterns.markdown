@@ -6,7 +6,7 @@ parent: Drills
 nav_order: 2
 ---
 
-## German Footwork Patterns
+# German Footwork Patterns
 ### Notes
 * If you are doing this with newer fencers, I like to substitute fleche with advance or jump lunge
 * I also like to substitute cross overs for check steps. 
