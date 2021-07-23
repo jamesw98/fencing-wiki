@@ -3,6 +3,7 @@ layout: page
 title: Drills
 permalink: /drills/
 has_children: true
+nav_order: 1
 ---
 
 # Fencing Drill Catalogue   

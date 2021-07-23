@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 0
 ---
 # About the Site
 This site is a collection of my knowledge as well as the knowledge of the other DFC coaches.
